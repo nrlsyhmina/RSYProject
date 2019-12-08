@@ -1,0 +1,15 @@
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\bin\Debug\Project RSY.exe.config
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\bin\Debug\Project RSY.exe
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\bin\Debug\Project RSY.pdb
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\bin\Debug\Project RSY.xml
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project RSY.vbprojAssemblyReference.cache
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project_RSY.Resources.resources
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project RSY.vbproj.GenerateResource.cache
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project RSY.vbproj.CoreCompileInputs.cache
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project RSY.exe
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project RSY.xml
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project RSY.pdb
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project_RSY.frmDashboard.resources
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project_RSY.frmLogin.resources
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project_RSY.frmRegister.resources
+C:\Users\Syahmina\Desktop\Project RSY\Project RSY\obj\Debug\Project_RSY.frmDeleteAhli.resources
